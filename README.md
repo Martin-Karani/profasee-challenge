@@ -64,7 +64,7 @@ The application code and sample data are part of the Profasee Coding Challenge. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 Feel free to reach out if you have any questions or feedback about the application or the coding challenge.
 
